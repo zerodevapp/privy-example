@@ -3639,10 +3639,10 @@
   resolved "https://registry.yarnpkg.com/@xtuc/long/-/long-4.2.2.tgz#d291c6a4e97989b5c61d9acf396ae4fe133a718d"
   integrity sha512-NuHqBY1PB/D8xU6s/thBgOAiAP7HOYDQ32+BFZILJ8ivkUkAHQnWfn6WhL79Owj1qmUnoN/YPhktdIoucipkAQ==
 
-"@zerodevapp/privy@^1.0.0-alpha.4":
-  version "1.0.0-alpha.4"
-  resolved "https://registry.yarnpkg.com/@zerodevapp/privy/-/privy-1.0.0-alpha.4.tgz#8f943c11bcb374c669a4cbe8b2f8384c06029f5d"
-  integrity sha512-2qqDIY5jhug2FEls/FXSxfgEPW9qkuZI8Jh2NuobnxBQqsJrNkqqXQ5hX/4bAfnrcQvmLvDoAppfnFOhi+J5iA==
+"@zerodevapp/privy@^1.0.0-alpha.16":
+  version "1.0.0-alpha.16"
+  resolved "https://registry.yarnpkg.com/@zerodevapp/privy/-/privy-1.0.0-alpha.16.tgz#5d3ec7c62ebf3e5fc4d2e767e03b247d2ea49de5"
+  integrity sha512-Gmr56O9aM0uJfMW3jZb49v340ZLdCA+qa/YXDQG6fhr27dY3rpHETnDRMr4eSiWhoQv73zOVXc5uFV7uvdIxUQ==
   dependencies:
     "@zerodevapp/sdk" "4.0.2-alpha.14"
 
