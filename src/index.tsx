@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App';
 import { PrivyProvider } from '@privy-io/react-auth';
-import { ZeroDevProvider } from '@zerodevapp/privy';
+import { ZeroDevProvider } from '@zerodev/privy';
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement

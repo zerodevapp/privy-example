@@ -1,6 +1,6 @@
 import { useCallback, useState } from "react"
 import abi from './0x34bE7f35132E97915633BC1fc020364EA5134863.json'
-import { useSmartPrivy } from '@zerodevapp/privy'
+import { useSmartPrivy } from '@zerodev/privy'
 import { encodeFunctionData } from "viem"
 
 
