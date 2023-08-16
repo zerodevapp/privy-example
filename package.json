@@ -13,7 +13,7 @@
     "@types/node": "^16.18.36",
     "@types/react": "^18.2.13",
     "@types/react-dom": "^18.2.6",
-    "@zerodev/privy": "1.0.1",
+    "@zerodev/privy": "1.0.2",
     "browserify-zlib": "^0.2.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",

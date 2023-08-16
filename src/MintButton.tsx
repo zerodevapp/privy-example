@@ -1,6 +1,6 @@
 import { useCallback, useState } from "react"
 import abi from './0x34bE7f35132E97915633BC1fc020364EA5134863.json'
-import { useSmartPrivy } from '@zerodev/privy'
+import { usePrivySmartAccount } from '@zerodev/privy'
 import { encodeFunctionData } from "viem"
 
 
@@ -9,7 +9,7 @@ const contractAddress = '0x34bE7f35132E97915633BC1fc020364EA5134863'
 const MintButton: React.FC = () => {
     const [loading, setLoading] = useState(false)
 
-    const smartPrivy = useSmartPrivy()
+    const smartPrivy = usePrivySmartAccount()
 
     const handleMint = useCallback(() => {
       console.log(smartPrivy.user?.wallet?.address !== undefined && !!smartPrivy.sendTransaction)
